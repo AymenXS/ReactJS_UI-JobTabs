@@ -1,4 +1,3 @@
-import React from 'react';
 import Duties from './Duties';
 
 const Jobs = ({ jobs, currentItem }) => {

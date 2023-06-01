@@ -1,5 +1,3 @@
-import React from 'react';
-
 const BtnContainer = ({ jobs, setCurrentItem, currentItem }) => {
   return (
     <div className="btn-container">
